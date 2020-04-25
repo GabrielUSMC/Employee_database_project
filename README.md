@@ -1,2 +1,2 @@
-# sql-challenge-HW9
-Homework 9 on SQL databases
+# sql-challenge-HW7
+Homework 7 on SQL databases
